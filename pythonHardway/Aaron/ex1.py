@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 print "Hello Python"
 print "Hello Again!"
 print "This is fun"
